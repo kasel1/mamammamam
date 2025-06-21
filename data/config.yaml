@@ -1,14 +1,14 @@
 site:
-  name: Test
+  name: "mamammamam"
   language: fr
   tagline: Chef & Créatrice
   description: Recettes maison faciles et gourmandes
   author: Amelia Feuss
   email: contact@recettes-blog.com
 branding:
-  logo_text: "T" 
-  hero_title_line1: Plongez dans
-  hero_title_line2: l'Art de la Cuisine
+  logo_text: "M" 
+  hero_title_line1: "hi"
+  hero_title_line2: "mamammamam"
   hero_subtitle: Chaque jour, une création gourmande pensée pour enchanter vos papilles et sublimer votre quotidien.
 colors:
   primary: "#ea580c"
